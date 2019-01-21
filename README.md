@@ -1,2 +1,2 @@
 # spring_boot_simple_example
-this is a example for springboot
+This is a simple example for springboot.
